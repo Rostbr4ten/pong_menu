@@ -1,1 +1,1 @@
-web: node app.js
+web: heroku-php-apache2
